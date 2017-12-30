@@ -2,24 +2,24 @@
   "_meta": {
     "maxChars": {
       "welcome": 20,
-      "readyToPlay": 20,
-      "pressContinue": 50,
-      "greatJob": 20,
+      "DigestiveSystem": 20,
+      "InternalOrgan": 50,
+      "DigestMeat": 20,
       "onePlusOne": 30
     }
   },
   "en": {
     "welcome": "Welcome!",
-    "DigestiveSystem": "<b>Digestive system.</b>",
-    "InternalOrgan": "<b>Type: Internal Organ.</b>\nWith this new organ you can digest meat.",
-    "DigestMeat": "",
+    "DigestiveSystem": "bDigestive system.b",
+    "InternalOrgan": "bType: Internal Organ.bnWith this new organ you can digest meat.",
+    "DigestMeat": "f",
     "onePlusOne": "One + One = Two"
   },
   "pt": {
     "welcome": "¡Bienvenido!",
     "DigestiveSystem": "Sistema digestório.",
-    "InternalOrgan": "Tipo: Organ interno.	\nCom esse novo organ você consegue digerir carne.",
-    "DigestMeat": "",
+    "InternalOrgan": "Tipo: Organ interno.	nCom esse novo organ você consegue digerir carne.",
+    "DigestMeat": "f",
     "onePlusOne": "Uno + Uno = Dos"
   }
 }
