@@ -4,23 +4,35 @@
       "welcome": 70,
       "DigestiveSystem": 70,
       "InternalOrgan": 70,
-      "DigestMeat": 70,
-      "onePlusOne": 70
+      "hornProtection": 70,
+      "horn": 70,
+      "Level1Start": 70,
+      "horn2": 70,
+      "horn3": 70,
+      "horn4": 70
     }
   },
   "en": {
     "welcome": "Welcome!",
     "DigestiveSystem": "Digestive system.",
     "InternalOrgan": "Type: Internal Organ. With this new organ you can digest meat.",
-    "DigestMeat": "f",
-    "onePlusOne": "One + One = Two"
+    "hornProtection": "This animal uses the horn as protection, be careful",
+	"horn": "Chifre",
+    "Level1Start": "Some time ago, we left some seeds here. They should be eatable by now.",
+    "horn2": "Chifre",
+    "horn3": "Chifre",
+    "horn4": "Chifre"
   }
   ,
   "pt": {
     "welcome": "afff",
     "DigestiveSystem": "Sistema digestório.",
     "InternalOrgan": "Tipo: Organ interno. Com esse novo organ você consegue digerir carne.",
-    "DigestMeat": "f",
-    "onePlusOne": "One + One = Two"
+    "hornProtection": "Esse animal usa o chifre como proteção, tome cuidado",
+    "horn": "Chifre",
+    "Level1Start": "Chifre",
+    "horn2": "Chifre",
+    "horn3": "Chifre",
+    "horn4": "Chifre"
   }
 }
