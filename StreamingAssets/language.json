@@ -7,9 +7,10 @@
       "hornProtection": 70,
       "horn": 70,
       "Level1Start": 70,
-      "horn2": 70,
-      "horn3": 70,
-      "horn4": 70
+      "Tail": 70,
+      "TailDescription": 70,
+      "SmallMammal": 70,
+	  "ThisBaby": 70
     }
   },
   "en": {
@@ -19,9 +20,10 @@
     "hornProtection": "This animal uses the horn as protection, be careful",
 	"horn": "Chifre",
     "Level1Start": "Some time ago, we left some seeds here. They should be eatable by now.",
-    "horn2": "Chifre",
-    "horn3": "Chifre",
-    "horn4": "Chifre"
+    "Tail": "Tail",
+    "TailDescription": "Type: external. Helps maintain balance, which increases speed.",
+    "SmallMammal": "Small mammal",
+	"ThisBaby": "This baby is harmless yet"
   }
   ,
   "pt": {
@@ -31,8 +33,9 @@
     "hornProtection": "Esse animal usa o chifre como proteção, tome cuidado",
     "horn": "Chifre",
     "Level1Start": "Chifre",
-    "horn2": "Chifre",
-    "horn3": "Chifre",
-    "horn4": "Chifre"
+    "Tail": "Rabo",
+    "TailDescription": "Tipo: externo. Ajuda a manter o equilibrio, o que aumenta a velocidade.",
+    "SmallMammal": "Pequeño mamífero",
+	"ThisBaby": "Esse bebe é inofensivo ainda"
   }
 }
