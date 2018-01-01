@@ -10,7 +10,9 @@
       "Tail": 70,
       "TailDescription": 70,
       "SmallMammal": 70,
-	  "ThisBaby": 70
+	  "ThisBaby": 70,
+	  "Congratulations": 70,
+	  "Cool": 50
     }
   },
   "en": {
@@ -23,7 +25,9 @@
     "Tail": "Tail",
     "TailDescription": "Type: external. Helps maintain balance, which increases speed.",
     "SmallMammal": "Small mammal",
-	"ThisBaby": "This baby is harmless yet"
+	"ThisBaby": "This baby is harmless yet",
+	"Congratulations": "Congratulations",
+	"Cool": "Cool!"
   }
   ,
   "pt": {
@@ -36,6 +40,8 @@
     "Tail": "Rabo",
     "TailDescription": "Tipo: externo. Ajuda a manter o equilibrio, o que aumenta a velocidade.",
     "SmallMammal": "Pequeño mamífero",
-	"ThisBaby": "Esse bebe é inofensivo ainda"
+	"ThisBaby": "Esse bebe é inofensivo ainda",
+	"Congratulations": "Congratulations",
+	"Cool": "Legal!"
   }
 }
