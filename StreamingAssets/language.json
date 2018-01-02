@@ -12,7 +12,9 @@
       "SmallMammal": 70,
 	  "ThisBaby": 70,
 	  "Congratulations": 70,
-	  "Cool": 50
+	  "Cool": 50,
+	  "Continue":20,
+	  "Get": 10
     }
   },
   "en": {
@@ -27,7 +29,9 @@
     "SmallMammal": "Small mammal",
 	"ThisBaby": "This baby is harmless yet",
 	"Congratulations": "Congratulations",
-	"Cool": "Cool!"
+	"Cool": "Cool!",
+	"Continue": "Continue",
+	"Get": "Get"
   }
   ,
   "pt": {
@@ -42,6 +46,8 @@
     "SmallMammal": "Pequeño mamífero",
 	"ThisBaby": "Esse bebe é inofensivo ainda",
 	"Congratulations": "Congratulations",
-	"Cool": "Legal!"
+	"Cool": "Legal!",
+	"Continue": "Continuar",
+	"Get": "Pegar"
   }
 }
