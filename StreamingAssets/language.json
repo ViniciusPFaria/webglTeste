@@ -14,7 +14,11 @@
 	  "Congratulations": 70,
 	  "Cool": 50,
 	  "Continue":20,
-	  "Get": 10
+	  "Get": 10,
+	  "Die": 10,
+	  "BigTeeth": 20,
+	  "BigTeeth2": 50
+	  
     }
   },
   "en": {
@@ -31,11 +35,14 @@
 	"Congratulations": "Congratulations",
 	"Cool": "Cool!",
 	"Continue": "Continue",
-	"Get": "Get"
+	"Get": "Get",
+	"Die": "You could not survive",
+	"BigTeeth": "Big teeth",
+	"BigTeeth2": "A stronger mouth greatly increases its damage."
   }
   ,
   "pt": {
-    "welcome": "afff",
+    "welcome": "Bem vindo",
     "DigestiveSystem": "Sistema digestório.",
     "InternalOrgan": "Tipo: Organ interno. Com esse novo organ você consegue digerir carne.",
     "hornProtection": "Esse animal usa o chifre como proteção, tome cuidado",
@@ -48,6 +55,9 @@
 	"Congratulations": "Congratulations",
 	"Cool": "Legal!",
 	"Continue": "Continuar",
-	"Get": "Pegar"
+	"Get": "Pegar",
+	"Die": "Você não conseguiu sobreviver",
+	"BigTeeth": "Dentes grandes",
+	"BigTeeth2": "Uma boca mais forte aumenta consideravelmente seu dano"
   }
 }
