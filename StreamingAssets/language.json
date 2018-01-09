@@ -17,7 +17,12 @@
 	  "Get": 10,
 	  "Die": 10,
 	  "BigTeeth": 20,
-	  "BigTeeth2": 50
+	  "BigTeeth2": 50,
+	  "Legs2": 50,
+	  "Legs2Text": 50,
+	  "PlantThorns": 50,
+	  "PlantThornsText": 50,
+	  "Tips1": 50
 	  
     }
   },
@@ -26,38 +31,48 @@
     "DigestiveSystem": "Digestive system.",
     "InternalOrgan": "Type: Internal Organ. With this new organ you can digest meat.",
     "hornProtection": "This animal uses the horn as protection, be careful",
-	"horn": "Chifre",
+	"horn": "Horn",
     "Level1Start": "Some time ago, we left some seeds here. They should be eatable by now.",
     "Tail": "Tail",
     "TailDescription": "Type: external. Helps maintain balance, which increases speed.",
     "SmallMammal": "Small mammal",
-	"ThisBaby": "This baby is harmless yet",
+	"ThisBaby": "This baby is harmless yet.",
 	"Congratulations": "Congratulations",
 	"Cool": "Cool!",
 	"Continue": "Continue",
 	"Get": "Get",
 	"Die": "You could not survive",
 	"BigTeeth": "Big teeth",
-	"BigTeeth2": "A stronger mouth greatly increases its damage."
+	"BigTeeth2": "A stronger mouth greatly increases its damage.",
+	"Legs2": "Strong leg",
+	"Legs2Text": "Well developed lower limbs perform better leaps.",
+	"PlantThorns": "Thorns",
+	"PlantThornsText": "type: External. As a form of protection some plants have developed thorns.",
+	"Tips1": "External structures of plants include roots, stems, leaves, and flowers."
   }
   ,
   "pt": {
     "welcome": "Bem vindo",
     "DigestiveSystem": "Sistema digestório.",
     "InternalOrgan": "Tipo: Organ interno. Com esse novo organ você consegue digerir carne.",
-    "hornProtection": "Esse animal usa o chifre como proteção, tome cuidado",
+    "hornProtection": "Esse animal usa o chifre como proteção, tome cuidado.",
     "horn": "Chifre",
     "Level1Start": "Chifre",
     "Tail": "Rabo",
     "TailDescription": "Tipo: externo. Ajuda a manter o equilibrio, o que aumenta a velocidade.",
     "SmallMammal": "Pequeño mamífero",
-	"ThisBaby": "Esse bebe é inofensivo ainda",
+	"ThisBaby": "Esse bebe é inofensivo ainda.",
 	"Congratulations": "Congratulations",
 	"Cool": "Legal!",
 	"Continue": "Continuar",
 	"Get": "Pegar",
 	"Die": "Você não conseguiu sobreviver",
 	"BigTeeth": "Dentes grandes",
-	"BigTeeth2": "Uma boca mais forte aumenta consideravelmente seu dano"
+	"BigTeeth2": "Uma boca mais forte aumenta consideravelmente seu dano.",
+	"Legs2": "Perna forte",
+	"Legs2Text": "membros inferiores bem desenvolvidos executam melhores pulos.",
+	"PlantThorns": "Espinhos",
+	"PlantThornsText": "tipo: Externo. Como forma de proteção algumas plantas desenvolveram espinhos.",
+	"Tips1": "As estruturas externas das plantas incluem raízes, caules, folhas e flores."
   }
 }
