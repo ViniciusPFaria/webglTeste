@@ -1,108 +1,47 @@
-{
+﻿{
   "_meta": {
     "maxChars": {
-      "welcome": 70,
-      "DigestiveSystem": 70,
-      "InternalOrgan": 70,
-      "hornProtection": 70,
-      "horn": 70,
-      "Level1Start": 70,
-      "Tail": 70,
-      "TailDescription": 70,
-      "SmallMammal": 70,
-	  "ThisBaby": 70,
-	  "Congratulations": 70,
-	  "Cool": 50,
-	  "Continue":20,
-	  "Get": 10,
-	  "Die": 30,
-	  "BigTeeth": 20,
-	  "BigTeeth2": 50,
-	  "Legs2": 50,
-	  "Legs2Text": 50,
-	  "PlantThorns": 50,
-	  "PlantThornsText": 100,
-	  "Tips1": 100,
-	  "Jump": 20,
-	  "Move": 20,
-	  "Eat": 10,
-	  "Intro": 200,
-	  "Life": 10,
-	  "Damage": 10,
-	  "Speed": 10,
-	  "Jump": 10,
-	  "DefenciveBody": 50,
-	  "DefenciveBodyDescription": 50
+      "Start":400,
+
+	"Map3": 400,
+
+	"Map4":200,
+
+	"Map5":200,
+
+	"Map6":200,
+
+	"Map8":200,
+
+	"Map2":200,
+
+	"Jump": 50,
+
+	"Move": 50
 	  
     }
   },
   "en": {
-    "welcome": "Welcome!",
-    "DigestiveSystem": "Digestive system.",
-    "InternalOrgan": "Type: Internal Organ. With this new organ you can digest meat.",
-    "hornProtection": "This animal uses its horn as protection, be careful!",
-	"horn": "Horn",
-    "Level1Start": "Some time ago, we left some seeds here. They should be edible by now.",
-    "Tail": "Tail",
-    "TailDescription": "Type: external. Helps maintain balance, which increases speed.",
-    "SmallMammal": "Small mammal",
-	"ThisBaby": "This baby is harmless yet.",
-	"Congratulations": "Congratulations",
-	"Cool": "Cool!",
-	"Continue": "Continue",
-	"Get": "Get",
-	"Die": "You could not survive.",
-	"BigTeeth": "Big teeth",
-	"BigTeeth2": "A stronger mouth greatly increases the damage.",
-	"Legs2": "Strong leg",
-	"Legs2Text": "Well developed lower limbs help to leap better.",
-	"PlantThorns": "Thorns",
-	"PlantThornsText": "Type: External. As a form of protection, some plants have developed thorns.",
-	"Tips1": "When organisms grow, they become larger over time.",
+   "Start":"Hello students, today you will learn how the structure of organism influence in how they behave,
+	grow and life.Remember that organism are living beings, help it to survive while he looks for food.
+	Be careful with predators, the goal is to survive in the environment".,
+
+	"Map3": "All the organisms have basic structures, physical parts that aid in the survival. 
+			New external structure unlocked: reinforced legs.  Allows two consecutive jumps.",
+
+	"Map4":"The wind might spread plant seeds, it help the plants to proliferate in the environment.",
+
+	"Map5":"Some plants have protected structures, like thorns, that make them protected against predators.",
+
+	"Map6":"In the nature organisms have internal structures that aid with some body functions, for example digestion.
+	Now you have a improved digestive system, that allows to eat meat and give you extra points",
+
+	"Map8":"Some plants use their colorful petals to attract pollinators.",
+
+	"Map2": "Remember your animal is a organism and he needs your help to stay alive.",
+
 	"Jump": "Jump",
-	"Move": "Move",
-	"Eat": "Eat",
-	"Intro": "Help our little friend survive the dangers of the forest. You were given the chance to control this creature's evolution. Choose carefully and become a powerful Adult.",
-	"Life": "Life",
-	"Damage": "Damage",
-	"Speed": "Speed",
-	"Jump": "Jump",
-	"DefenciveBody": "Defensive body",
-	"DefenciveBodyDescription": "Extra protection"
-  }
-  ,
-  "pt": {
-    "welcome": "Bem vindo",
-    "DigestiveSystem": "Sistema digestório.",
-    "InternalOrgan": "Tipo: Organ interno. Com esse novo organ você consegue digerir carne.",
-    "hornProtection": "Esse animal usa o chifre como proteção, tome cuidado.",
-    "horn": "Chifre",
-    "Level1Start": "Chifre",
-    "Tail": "Rabo",
-    "TailDescription": "Tipo: externo. Ajuda a manter o equilibrio, o que aumenta a velocidade.",
-    "SmallMammal": "Pequeño mamífero",
-	"ThisBaby": "Esse bebe é inofensivo ainda.",
-	"Congratulations": "Congratulations",
-	"Cool": "Legal!",
-	"Continue": "Continuar",
-	"Get": "Pegar",
-	"Die": "Você não conseguiu sobreviver",
-	"BigTeeth": "Dentes grandes",
-	"BigTeeth2": "Uma boca mais forte aumenta consideravelmente seu dano.",
-	"Legs2": "Perna forte",
-	"Legs2Text": "membros inferiores bem desenvolvidos executam melhores pulos.",
-	"PlantThorns": "Espinhos",
-	"PlantThornsText": "tipo: Externo. Como forma de proteção algumas plantas desenvolveram espinhos.",
-	"Tips1": "Quando um organismo cresce eles ficam maiores com o tempo",
-	"Jump": "Pular",
-	"Move": "Mover",
-	"Eat": "Comer",
-	"Intro": "Ajude nosso amiguinho a sobreviver aos perigos da floresta. Foi concedido a voce a chance de controlar a evolução dessa criatura. Escolha com cuidado e se transforme em um adulto poderoso.",
-	"Life": "Vida",
-	"Damage": "Dano",
-	"Speed": "Velocidade",
-	"Jump": "Pulo",
-	"DefenciveBody": "Corpo defensivo",
-	"DefenciveBodyDescription": "Proteção Extra"
+
+	"Move": "Move"
   }
 }
