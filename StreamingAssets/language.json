@@ -9,7 +9,7 @@
 
 	"Map5":200,
 
-	"Map6":200,
+	"Map6":300,
 
 	"Map8":200,
 
@@ -22,19 +22,15 @@
     }
   },
   "en": {
-   "Start":"Hello students, today you will learn how the structure of organism influence in how they behave,
-	grow and life.Remember that organism are living beings, help it to survive while he looks for food.
-	Be careful with predators, the goal is to survive in the environment".,
+   "Start":"Hello students, today you will learn how the structure of organism influence in how they behave, grow and life.Remember that organism are living beings, help it to survive while he looks for food. Be careful with predators, the goal is to survive in the environment.",
 
-	"Map3": "All the organisms have basic structures, physical parts that aid in the survival. 
-			New external structure unlocked: reinforced legs.  Allows two consecutive jumps.",
+	"Map3": "All the organisms have basic structures, physical parts that aid in the survival. New external structure unlocked: reinforced legs. Allows two consecutive jumps.",
 
 	"Map4":"The wind might spread plant seeds, it help the plants to proliferate in the environment.",
 
 	"Map5":"Some plants have protected structures, like thorns, that make them protected against predators.",
 
-	"Map6":"In the nature organisms have internal structures that aid with some body functions, for example digestion.
-	Now you have a improved digestive system, that allows to eat meat and give you extra points",
+	"Map6":"In the nature organisms have internal structures that aid with some body functions, for example digestion. Now you have a improved digestive system, that allows to eat meat and give you extra points",
 
 	"Map8":"Some plants use their colorful petals to attract pollinators.",
 
