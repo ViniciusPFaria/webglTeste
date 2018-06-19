@@ -17,27 +17,35 @@
 
 	"Jump": 50,
 
-	"Move": 50
+	"Move": 50,
+
+	"Congratulations": 100,
+
+	"Cool": 10
 	  
     }
   },
   "en": {
-   "Start":"Hello students, today you will learn how the structure of organism influence in how they behave, grow and life.Remember that organism are living beings, help it to survive while he looks for food. Be careful with predators, the goal is to survive in the environment.",
+   "Start":"Hello, students. Today you will learn how the structure of an organism influences how it behaves, grows, and lives. Remember that organisms are living beings. Help this organism to survive while he looks for food, but be careful of predators. The goal is to survive in the environment.",
 
 	"Map3": "All the organisms have basic structures, physical parts that aid in the survival. New external structure unlocked: reinforced legs. Allows two consecutive jumps.",
 
-	"Map4":"The wind might spread plant seeds, it help the plants to proliferate in the environment.",
+	"Map4":"The wind might spread plant seeds. It helps plants proliferate in the environment.",
 
-	"Map5":"Some plants have protected structures, like thorns, that make them protected against predators.",
+	"Map5":"Some plants have protected structures, like thorns, that protect them from predators.",
 
-	"Map6":"In the nature organisms have internal structures that aid with some body functions, for example digestion. Now you have a improved digestive system, that allows to eat meat and give you extra points",
+	"Map6":"In nature, organisms have internal structures that aid with some body functions such as digestion. Now you have an improved digestive system that allows you to eat meat and gives you extra points.",
 
 	"Map8":"Some plants use their colorful petals to attract pollinators.",
-
-	"Map2": "Remember your animal is a organism and he needs your help to stay alive.",
+	 
+	"Map2": "Remember your animal is an organism and needs your help to survive.",
 
 	"Jump": "Jump",
 
-	"Move": "Move"
+	"Move": "Move",
+
+	"Congratulations": "Congratulations.",
+
+	"Cool": "Cool."
   }
 }
